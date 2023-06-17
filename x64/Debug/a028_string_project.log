@@ -1,0 +1,8 @@
+﻿  a028_string_project.cpp
+D:\Courses\CS_FOundations\C++\1- visual_studio_c++_repo_OOP\a028_string_project\clsString.h(145,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\1- visual_studio_c++_repo_OOP\a028_string_project\clsString.h(226,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\1- visual_studio_c++_repo_OOP\a028_string_project\clsString.h(254,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\1- visual_studio_c++_repo_OOP\a028_string_project\clsString.h(298,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\1- visual_studio_c++_repo_OOP\a028_string_project\clsString.h(417,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\1- visual_studio_c++_repo_OOP\a028_string_project\clsString.h(469,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  a028_string_project.vcxproj -> D:\Courses\CS_FOundations\C++\1- visual_studio_c++_repo_OOP\a028_string_project\x64\Debug\a028_string_project.exe
